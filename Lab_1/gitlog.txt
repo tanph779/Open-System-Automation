@@ -1,0 +1,20 @@
+commit 90efac38ad3bb82bdfc9375fb499ae368de159bc
+Merge: 6d5a68c 7b2631f
+Author: tanph779 <71420297+tanph779@users.noreply.github.com>
+Date:   Wed Sep 16 23:53:00 2020 -0400
+
+    Merge pull request #1 from tanph779/readme-edits
+    
+    README edits
+
+commit 7b2631f7d4e64b04e8d773ccaea8f1db62e0554c
+Author: tanph779 <71420297+tanph779@users.noreply.github.com>
+Date:   Wed Sep 16 23:42:47 2020 -0400
+
+    Update README.md
+
+commit 6d5a68cad70bbb612c5c1ed65d6f08624b62da29
+Author: tanph779 <71420297+tanph779@users.noreply.github.com>
+Date:   Wed Sep 16 23:24:15 2020 -0400
+
+    Initial commit
